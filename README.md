@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Realtime Stream
 
 A minimal realtime data streaming app built with Next.js Server-Sent
@@ -84,3 +85,7 @@ WebSocket. Common approaches:
 
 Happy to wire up either of those if you tell me which fits your use
 case.
+=======
+# real-time-data-streaming
+A real-time data streaming dashboard built with Next.js, featuring live event monitoring, file uploads, and interactive command controls.
+>>>>>>> 18cbab9c3c22d58c9148698d3bc66a5c8f17e3ef
